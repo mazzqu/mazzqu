@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @mazzqu
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Backend Enviroment
+- 👋 Hi, I’m Laurentsius / @mazzqu
+- 👀 I’m interested in Web Development and Services
+- 🌱 I’m currently learning Backend Enviroment and Architecture System
 - 💞️ I’m looking to collaborate on To Everyone
  
 
