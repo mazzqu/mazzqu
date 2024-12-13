@@ -1,12 +1,9 @@
 - 👋 Hi, I’m Laurentsius Alang
 - 👀 I’m interested in Program Development and Services
-- 🌱 I’m currently learning Backend enviroment, Web application and Architecture system
-- 🐱‍🏍 I'm looking for my career as a software developer after completing my undergraduation in the march 2024. <br>Soon, right now I'm Studying at Hagoromo International University for Bachelor of Computer Science program.</p>
  
 ### 🛠 &nbsp;Tech Stack
 
 Currently learning :<br/><br/>
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
